@@ -1,2 +1,45 @@
-# bootstrap-4.3.1-sass-gulp4-boilerplate
-A Bootstrap 4.3.1 boilerplate with font-awesome 5.8.1, sass, gulp 4 tasks, browserSync
+# Bootstrap 4.3.1 with Sass and Gulp 4 Boilerplate
+A Bootstrap 4.3.1 boilerplate with font-awesome 5.8.1, sass, gulp 4 tasks, browserSync. 
+
+## Pre-requisite
+- [Node.js](https://nodejs.org/en/download/ "Node Js")
+- NPM (Comes with Node.js)
+- [Gulp](https://gulpjs.com/ "Gulp")
+
+## Dev Dependencies
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "autoprefixer": "^9.4.3",
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.8",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+
+Install Gulp Globally
+
+    $ npm -g install gulp
+
+## Getting started
+
+1. Clone repository:
+`git clone https://github.com/blue0knight/bootstrap-4.3.1-sass-gulp4-boilerplate`
+
+2. Change directory:
+`cd bootstrap-4.3.1-sass-gulp4-boilerplate`
+    
+3. Install all dependencies and libraries:
+`npm install`
+
+4. Run Gulp Task:
+  - `gulp style`      - To move scss files from node_modules, compile scss to css, minify css, and rename styles.css to    styles.min.css folder.
+  
+  - `gulp script`     - To move js files from node_modules to js
+
+  - `gulp `           - To start a local server with browserSync and hot reloading on changes to files (HTML, SCSS, JS).
+   
