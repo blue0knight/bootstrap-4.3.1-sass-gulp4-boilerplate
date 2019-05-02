@@ -41,5 +41,7 @@ Install Gulp Globally
   
   - `gulp script`     - To move js files from node_modules to js
 
-  - `gulp `           - To start a local server with browserSync and hot reloading on changes to files (HTML, SCSS, JS).
+  - `gulp watch`      - To start a local server with browserSync and hot reloading on changes to files (HTML, SCSS, JS).
+
+  - `gulp`            - To run style, script and watch parallel tasks
    
