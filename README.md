@@ -1,5 +1,5 @@
 # Bootstrap 4.3.1 with Sass and Gulp 4 Boilerplate
-A Bootstrap 4.3.1 boilerplate with font-awesome 5.8.1, sass, gulp 4 tasks, browserSync. 
+A Bootstrap 4.3.1 boilerplate with sass, gulp 4 tasks, browserSync
 
 ## Pre-requisite
 - [Node.js](https://nodejs.org/en/download/ "Node Js")
