@@ -7,7 +7,6 @@ A Bootstrap 4.3.1 boilerplate with font-awesome 5.8.1, sass, gulp 4 tasks, brows
 - [Gulp](https://gulpjs.com/ "Gulp")
 
 ## Dev Dependencies
-    "@fortawesome/fontawesome-free": "^5.8.1",
     "autoprefixer": "^9.5.1",
     "bootstrap": "^4.3.1",
     "browser-sync": "^2.26.5",

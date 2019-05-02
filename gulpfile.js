@@ -13,8 +13,7 @@ var paths = {
         // By using styles/**/*.scss we're telling gulp to check all folders for any scss file
         src: ['src/scss/*.scss', 
         // Source of scss files of bootstrap and font-awesome
-        'node_modules/bootstrap/scss/bootstrap.scss', 
-        'node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss'],
+        'node_modules/bootstrap/scss/bootstrap.scss'],
         // Compiled scss files will go here (destination)
         dest: 'src/css'
     }
