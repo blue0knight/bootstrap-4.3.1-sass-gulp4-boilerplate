@@ -8,18 +8,18 @@ A Bootstrap 4.3.1 boilerplate with font-awesome 5.8.1, sass, gulp 4 tasks, brows
 
 ## Dev Dependencies
     "@fortawesome/fontawesome-free": "^5.8.1",
-    "autoprefixer": "^9.4.3",
+    "autoprefixer": "^9.5.1",
     "bootstrap": "^4.3.1",
-    "browser-sync": "^2.26.3",
-    "cssnano": "^4.1.8",
-    "gulp": "^4.0.0",
+    "browser-sync": "^2.26.5",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.1",
     "gulp-postcss": "^8.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
-    "gulp-sourcemaps": "^2.6.4",
+    "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.14.7"
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
 
 Install Gulp Globally
 
